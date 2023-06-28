@@ -1,0 +1,1 @@
+Store a data sample or its schema inside this data repository
